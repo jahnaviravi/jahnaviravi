@@ -33,13 +33,14 @@ Strengths: Attention to Detail, Strong Work Ethic, Communication, Analytical Thi
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know 👩‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies and Skills Summary 👩‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,html,mysql,vscode,anaconda,py,kubernetes&perline=14" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,python,mysql,r,tableau,matplotlib,word,powerpoint,pytorch,pycharm,postgres,html,vscode,anaconda" />
   </a>
 </p>
 
