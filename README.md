@@ -12,8 +12,8 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="![image](https://github.com/user-attachments/assets/04b63d56-de62-480e-b783-1b643c8d0733)"
+       alt="image" /></a>
 </div>
 
 <!--Intro start-->
