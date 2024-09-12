@@ -17,14 +17,16 @@
 
 🎓 M.S. in Financial Analytics from Stevens Institute of Technology (GPA: 3.8)<br>
 🎓 B.B.A. in Finance from FLAME University<br>
-🌐 Experienced in real estate financial analysis, investment operations, and financial modeling.<br>
-🔍 Passionate about leveraging data to drive financial decision-making and forecasting.
+🌐 Experienced in real estate financial analysis, research, investment operations, process automation, and financial modeling.<br>
+🔍 Passionate about leveraging data to drive financial decision-making and forecasting.<br>
+👩‍💻 Strong interest in innovations like blockchain, machine learning, and automated financial systems to revolutionize traditional finance.
 
 ## Technical Skills
 
-Languages: Python, R, MATLAB, MySQL, PostgreSQL<br>
-Tools: Tableau, Bloomberg Terminal, Microsoft Excel (Advanced), Alpaca Trading API<br>
-Specialties: Financial modeling, risk analysis, forecasting, financial reporting, and trend analysis.
+Technical: Advanced Excel, Python, MySQL, R, Tableau, MATLAB, Microsoft Office, PostgreSQL, and Bloomberg Terminal<br>
+Analytical: Financial Modeling, Forecasting, Risk Analysis, Financial Reporting, Trend Analysis, and Financial Statement Analysis<br>
+Strengths: Attention to Detail, Strong Work Ethic, Communication, Analytical Thinking, Leadership, Problem-solving, and Proactive
+
 <!--Intro end-->
 
 
@@ -37,7 +39,7 @@ Specialties: Financial modeling, risk analysis, forecasting, financial reporting
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,postgres,html,mysql,vscode,anaconda,py,kubernetes&perline=14" />
   </a>
 </p>
 
