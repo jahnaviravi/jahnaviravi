@@ -22,10 +22,10 @@
 👩‍💻 Strong interest in innovations like blockchain, machine learning, and automated financial systems to revolutionize traditional finance.<br>
 📧 Contact me at: jahnaviravi10@gmail.com
 
-## Technical Skills
+## Skills
 
-Technical: Advanced Excel, Python, MySQL, R, Tableau, MATLAB, Microsoft Office, PostgreSQL, and Bloomberg Terminal<br>
-Analytical: Financial Modeling, Forecasting, Risk Analysis, Financial Reporting, Trend Analysis, and Financial Statement Analysis<br>
+Technical Skills: Advanced Excel, Python, MySQL, R, Tableau, MATLAB, Microsoft Office, HTML, PostgreSQL, and Bloomberg Terminal<br>
+Analytical Skills: Financial Modeling, Forecasting, Risk Analysis, Financial Reporting, Trend Analysis, and Financial Statement Analysis<br>
 Strengths: Attention to Detail, Strong Work Ethic, Communication, Analytical Thinking, Leadership, Problem-solving, and Proactive
 
 <!--Intro end-->
