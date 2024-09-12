@@ -60,7 +60,7 @@ Strengths: Attention to Detail, Strong Work Ethic, Communication, Analytical Thi
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" />
   </a>
   
-  <a href="mailto:jahnaviravi10@gmail.com" target="blank">
+  <a href="mailto:jahnaviravi10@gmail.com">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
