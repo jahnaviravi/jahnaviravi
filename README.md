@@ -20,6 +20,7 @@
 🌐 Experienced in real estate financial analysis, research, investment operations, process automation, and financial modeling.<br>
 🔍 Passionate about leveraging data to drive financial decision-making and forecasting.<br>
 👩‍💻 Strong interest in innovations like blockchain, machine learning, and automated financial systems to revolutionize traditional finance.
+📧 Contact me at: jahnaviravi10@gmail.com
 
 ## Technical Skills
 
