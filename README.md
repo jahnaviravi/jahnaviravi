@@ -15,15 +15,15 @@
 <!--Intro start-->
 ## About Me
 
-🎓 M.S. in Financial Analytics from Stevens Institute of Technology (GPA: 3.8)
-🎓 B.B.A. in Finance from FLAME University
-🌐 Experienced in real estate financial analysis, investment operations, and financial modeling.
+🎓 M.S. in Financial Analytics from Stevens Institute of Technology (GPA: 3.8)<br>
+🎓 B.B.A. in Finance from FLAME University<br>
+🌐 Experienced in real estate financial analysis, investment operations, and financial modeling.<br>
 🔍 Passionate about leveraging data to drive financial decision-making and forecasting.
 
 ## Technical Skills
 
-Languages: Python, R, MATLAB, MySQL, PostgreSQL
-Tools: Tableau, Bloomberg Terminal, Microsoft Excel (Advanced), Alpaca Trading API
+Languages: Python, R, MATLAB, MySQL, PostgreSQL<br>
+Tools: Tableau, Bloomberg Terminal, Microsoft Excel (Advanced), Alpaca Trading API<br>
 Specialties: Financial modeling, risk analysis, forecasting, financial reporting, and trend analysis.
 <!--Intro end-->
 
