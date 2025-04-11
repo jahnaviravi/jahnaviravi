@@ -5,50 +5,6 @@
   </ul>
 </div>
 
-
-<!--- image -->
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/bac2832f-cdfc-4849-ac38-245900e52565" 
-       alt="image" />
-</div>
-
-
-<!--Intro start-->
-## About Me
-
-🎓 M.S. in Financial Analytics and B.B.A. in Finance
-🌐 Experienced in financial analysis, financial modeling, data analysis, and process automation<br>
-🔍 Passionate about using data-driven approaches to optimize financial decision-making and forecasting<br>
-👩‍💻 Strong interest in AI, machine learning, and automation technologies to innovate the finance industry<br>
-📧 Contact me at: jahnaviravi10@gmail.com
-
-## Skills
-
-**Technical Skills:** Python (Matplotlib, NumPy, Statsmodels), R, MATLAB, Excel, MySQL, PostgreSQL, VBA, Tableau, Power BI, Bloomberg Terminal<br>
-
-**Analytical Skills:** Financial Modeling, Forecasting, Risk Analysis, Financial Reporting, Trend Analysis, Financial Statement Analysis<br>
-
-**Tools & IDEs:** Jupyter Notebook, VS Code, Google Colab, Google Sheets, Microsoft Office Suite, Bloomberg Terminal<br>
-
-**Certifications:** Bloomberg Market Concepts Certificate, CFA Level 1 Candidate<br>
-
-<!--Intro end-->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">Technologies and Skills Summary 👩‍💻</h3></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,python,mysql,r,tableau,matplotlib,word,powerpoint,pytorch,pycharm,postgres,html,vscode,anaconda" />
-  </a>
-</p>
-
 <!-- Projects Section -->
 ## Projects 🚀
 
@@ -85,5 +41,40 @@ Note: Click on the images to view the corresponding projects
   
   <a href="mailto:jahnaviravi10@gmail.com">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail" />
+  </a>
+</p>
+
+<!--Intro start-->
+## About Me
+
+🎓 M.S. in Financial Analytics and B.B.A. in Finance<br>
+🌐 Experienced in financial analysis, financial modeling, data analysis, and process automation<br>
+🔍 Passionate about using data-driven approaches to optimize financial decision-making and forecasting<br>
+👩‍💻 Strong interest in AI, machine learning, and automation technologies to innovate the finance industry<br>
+
+## Skills
+
+**Technical Skills:** Python (Matplotlib, NumPy, Statsmodels), R, MATLAB, Excel, MySQL, PostgreSQL, VBA, Tableau, Power BI, Bloomberg Terminal<br>
+
+**Analytical Skills:** Financial Modeling, Forecasting, Risk Analysis, Financial Reporting, Trend Analysis, Financial Statement Analysis<br>
+
+**Tools & IDEs:** Jupyter Notebook, VS Code, Google Colab, Google Sheets, Microsoft Office Suite, Bloomberg Terminal<br>
+
+**Certifications:** Bloomberg Market Concepts Certificate, CFA Level 1 Candidate<br>
+
+<!--Intro end-->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Technologies and Skills Summary 👩‍💻</h3></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,python,mysql,r,tableau,matplotlib,word,powerpoint,pytorch,pycharm,postgres,html,vscode,anaconda" />
   </a>
 </p>
