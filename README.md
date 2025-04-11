@@ -15,20 +15,21 @@
 <!--Intro start-->
 ## About Me
 
-🎓 M.S. in Financial Analytics from Stevens Institute of Technology (GPA: 3.8)<br>
-🎓 B.B.A. in Finance from FLAME University<br>
-🌐 Experienced in real estate financial analysis, research, investment operations, process automation, and financial modeling.<br>
-🔍 Passionate about leveraging data to drive financial decision-making and forecasting.<br>
-👩‍💻 Strong interest in innovations like blockchain, machine learning, and automated financial systems to revolutionize traditional finance.<br>
+🎓 M.S. in Financial Analytics and B.B.A. in Finance
+🌐 Experienced in financial analysis, financial modeling, data analysis, and process automation<br>
+🔍 Passionate about using data-driven approaches to optimize financial decision-making and forecasting<br>
+👩‍💻 Strong interest in AI, machine learning, and automation technologies to innovate the finance industry<br>
 📧 Contact me at: jahnaviravi10@gmail.com
 
 ## Skills
 
-Technical Skills: Advanced Excel, Python, MySQL, R, Tableau, MATLAB, Microsoft Office, HTML, PostgreSQL, and Bloomberg Terminal<br>
+**Technical Skills:** Python (Matplotlib, NumPy, Statsmodels), R, MATLAB, Excel, MySQL, PostgreSQL, VBA, Tableau, Power BI, Bloomberg Terminal<br>
 
-Analytical Skills: Financial Modeling, Forecasting, Risk Analysis, Financial Reporting, Trend Analysis, and Financial Statement Analysis<br>
+**Analytical Skills:** Financial Modeling, Forecasting, Risk Analysis, Financial Reporting, Trend Analysis, Financial Statement Analysis<br>
 
-Strengths: Attention to Detail, Strong Work Ethic, Communication, Analytical Thinking, Leadership, Problem-solving, and Proactive
+**Tools & IDEs:** Jupyter Notebook, VS Code, Google Colab, Google Sheets, Microsoft Office Suite, Bloomberg Terminal<br>
+
+**Certifications:** Bloomberg Market Concepts Certificate, CFA Level 1 Candidate<br>
 
 <!--Intro end-->
 
