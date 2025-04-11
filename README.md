@@ -8,9 +8,10 @@
 
 <!--- image -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/04b63d56-de62-480e-b783-1b643c8d0733" 
+  <img src="https://github.com/user-attachments/assets/bac2832f-cdfc-4849-ac38-245900e52565" 
        alt="image" />
 </div>
+
 
 <!--Intro start-->
 ## About Me
